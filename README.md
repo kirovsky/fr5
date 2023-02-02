@@ -1,1 +1,3 @@
-# fr5
+# This is a repo containing a project built during the Brainster's frontend academy
+
+## To set it up run ...
